@@ -50,3 +50,9 @@ ID: 1
 Name: sumiran
 Gender: 1
 Age: 18
+ID: 9
+Phone: 9851
+Email: avi
+ID: 93
+Phone: 9
+Email: abi
